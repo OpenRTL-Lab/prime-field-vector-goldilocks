@@ -1,0 +1,15 @@
+OpenRTL-Header-Begin
+OpenRTL — Open-source hardware accelerators.
+Organization: https://github.com/OpenRTL-Lab
+Website: https://openrtl.top/
+
+Project: Goldilocks Prime-Field Vector Hardware Accelerator
+Chisel hardware for vector arithmetic and dot products over the Goldilocks field.
+Repository: https://github.com/OpenRTL-Lab/prime-field-vector-goldilocks
+File: rtl/v1.1.0/l65536-k8-lane1/files.f
+
+SPDX-FileCopyrightText: 2026 Goldilocks Prime Field Vector contributors
+Copyright applies to original project contributions only.
+SPDX-License-Identifier: MIT
+See LICENSE and applicable third-party notices.
+OpenRTL-Header-End
